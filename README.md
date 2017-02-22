@@ -1,5 +1,2 @@
 # Hardware
-
-Hier landen meine Hardwaresachen drin.
-- Gehäuse
-- Basteleien
+Hier landen meine Hardwaresachen drin. ( Gehäuse, Basteleien, usw.)
